@@ -1,0 +1,11 @@
+[package]
+name = "ta-ko-ho/site-9d0"
+version = "0.1.0"
+description = "wasmer-tests/wasmer-edge-gatsby-sample website"
+repository = "https://github.com/ta-ko-ho/site-9d0"
+
+[dependencies]
+"wasmer/static-web-server" = "*"
+
+[fs]
+public = "public"
